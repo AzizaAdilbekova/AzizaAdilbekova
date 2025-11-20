@@ -15,5 +15,5 @@ Jupyter Notebook • Excel • Yandex DataLens • Git • GitHub
 - **Yandex Books: Metrics & A/B Testing** — retention, LTV, hypothesis testing
 
 ## Contacts
-LinkedIn: [https://www.linkedin.com/in/ТВОЙ_АДРЕС_ЗДЕСЬ ](https://www.linkedin.com/in/aziza-adilbekova-bbb650377/) 
+LinkedIn: https://www.linkedin.com/in/aziza-adilbekova-bbb650377/
 Email:  azizaadilbekova536@gmail.com
